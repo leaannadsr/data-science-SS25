@@ -1,2 +1,2 @@
-# data-science-SS25
-Kurs-Repo für MCiT Bachelor-kurs in Data Science UE SS25
+# Data-Science-SS25
+Kurs-Repo für MCiT Bachelor-Kurs in Data Science UE SS25
