@@ -1,3 +1,10 @@
+# Meine eigenen Einträge
+*.xlsx
+*.docx
+.vscode 
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
